@@ -1,1 +1,1 @@
-var meow = 2;
+var m = 2;
